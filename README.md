@@ -16,7 +16,6 @@ The **OTP-Protected Note Sharing System** is a secure platform that allows users
 - **Jakarta Mail (formerly JavaMail)**: For sending emails with OTP
 - **Maven**: Dependency management and build tool
 - **H2 Database**: For development purposes, particularly in-memory databases for testing
-- **HTML/CSS**: For frontend design
 
 ## PREREQUISITES
 To run this project, you will need:
